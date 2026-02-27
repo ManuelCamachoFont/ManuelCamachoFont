@@ -1,17 +1,20 @@
 # Hello, I'm Manuel! 👋
 
-📚 Student   
-🧠 In a constant state of learning
-🧩 Problem Solving: I see coding as a giant puzzle, I love the challenge of fitting every piece together to make everything work perfectly.
-🏫 I am currently studying Cross-platform development at GrupoStudium
+📚 Student  
+
+🧠 In a constant state of learning  
+
+🧩 Problem Solving: I see coding as a giant puzzle, I love the challenge of fitting every piece together to make everything work perfectly.  
+
+🏫 I am currently studying Cross-platform development at GrupoStudium  
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuelCamachoFont&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Manuel's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelCamachoFont&layout=compact&theme=radical" alt="Manuel's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuelCamachoFont&show_icons=true&theme=radical&hide_border=false" alt="Manuel's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelCamachoFont&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 ---
