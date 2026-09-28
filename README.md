@@ -45,7 +45,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=java, js" />
   </a>
 </p>
 
@@ -55,6 +55,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python" />
+    <img src="https://skillicons.dev/icons?i=python" />
   </a>
 </p>
