@@ -6,7 +6,7 @@
 
 🧩 Veo la programación como un gran puzle: me gusta el reto de encajar cada pieza hasta que todo funciona.
 
-📫 [LinkedIn](https://www.linkedin.com/in/manuel-camacho-font-9724042a1) · manuelcamachofont@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/manuelcamachofont) · manuelcamachofont@gmail.com
 
 ---
 
